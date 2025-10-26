@@ -19,7 +19,7 @@ If you want something that works out of the box asks for no key and keeps things
 This loader is made for you and will stay free so the community can learn share and build together  
 Have fun be mindful and enjoy the script responsibly  
 
-ไทย
+## 🇹🇭 ไทย
 
 นี่เป็นเพียงตัวโหลดสำหรับ AuthGuard Server ที่ถูกสร้างให้เรียบง่าย สะอาด และพร้อมใช้งานทันที  
 คุณไม่ต้องใช้คีย์ใด ๆ และสามารถเพลิดเพลินกับสคริปต์ฟรีได้ทันที  
@@ -61,4 +61,4 @@ Hãy tận hưởng một cách có trách nhiệm và vui vẻ khi sử dụng 
 
 
 
-## other languages will be coming soon
+### other languages will be coming soon
