@@ -1,4 +1,4 @@
---[[ This File loadstring by AuthGuard
+--[[ This File Obfuscate by AuthGuard not modifying by kawnew
 Feature :
 - infinity health 
 - speed bypass (speed 75)
